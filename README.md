@@ -38,4 +38,4 @@ Feel free to ask questions [here](https://github.com/HSNL-TAs/2016-ITCN-FTP-Prox
 
 Contributor
 ==
-[z58085111](https://github.com/z58085111)
+[z58085111](https://github.com/z58085111) and  [lockys](https://github.com/lockys)
