@@ -21,7 +21,7 @@ You can click `Download ZIP` to download a zip file directly
 
 1. install Git on your system.
 2. open command prompt
-3. input `git clone https://github.com/HSNL-TAs/2015-ICTN-Final-Project-FTP-Proxy.git`
+3. input `git clone https://github.com/HSNL-TAs/2016-ITCN-FTP-Proxy-Template.git`
 
 Running
 ==
