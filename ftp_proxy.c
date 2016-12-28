@@ -139,7 +139,7 @@ int proxy_func(int ser_port, int clifd, int rate) {
         maxfdp1 = max(clifd, serfd) + 1;
 
         // select descriptor
-        nready = select(maxfdp1 + 1, &rset, NULL, NULL, NULL);
+        nready = select(maxfdp1, &rset, NULL, NULL, NULL);
         if (nready > 0) {
             // check FTP client socket fd
             if (FD_ISSET(clifd, &rset)) {
