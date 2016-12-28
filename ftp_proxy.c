@@ -125,7 +125,7 @@ int proxy_func(int ser_port, int clifd, int rate) {
         return -1;
     }
 
-    datafd = serfd;
+    // datafd = serfd;
 
     // initialize select vars
     FD_ZERO(&allset);
